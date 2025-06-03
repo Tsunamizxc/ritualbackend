@@ -323,6 +323,7 @@ html {
 }
 .price__card_img {
   width: 28rem;
+  height: 28rem;
 }
 .price__card_btn {
   display: inline-block;
@@ -923,4 +924,13 @@ html {
   line-height: 2rem;
   letter-spacing: 0%;
   text-align: left;
+}
+.errortext{
+  color: rgb(178, 27, 27);
+  font-family: Montserrat;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2rem;
+  letter-spacing: 0%;
+  text-align: center;
 }
